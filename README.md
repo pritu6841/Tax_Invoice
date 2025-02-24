@@ -1,8 +1,11 @@
-# React + Vite
+A responsive invoice application built with React.js. It dynamically displays invoices with billing details, product info, and tax calculations.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+✅ Modular React components
+✅ Dynamic invoice rendering from JSON
+✅ Auto tax calculations (CGST, SGST)
+✅ Fully responsive with Tailwind CSS
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tech Stack
+React.js – UI rendering
+Tailwind CSS – Styling
