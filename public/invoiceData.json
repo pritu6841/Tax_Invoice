@@ -1,0 +1,31 @@
+{
+  "party": {
+    "legal_name": "DEMO GST Register Party",
+    "principal_address": {
+      "city": "Raipur",
+      "state": "Chhattisgarh",
+      "pincode": "492004"
+    },
+    "shipping_address": {
+      "address1": "Second Floor 106/3 Avanti Vihar Road",
+      "city": "Raipur",
+      "state": "Chhattisgarh",
+      "pincode": "492004"
+    }
+  },
+  "quantities": [
+    10
+  ],
+  "hsn_details": [
+    {
+      "product_info": "SFAFDAS",
+      "hsn_code": "7801",
+      "unit": "KGS",
+      "cgst": 9,
+      "sgst": 9
+    }
+  ],
+  "rates": [
+    120.00
+  ]
+}
